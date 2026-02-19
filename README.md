@@ -66,22 +66,16 @@ Con este modelo, se puede evaluar la capacidad del postulante para escribir expr
 
 Venta Bruta:
 
-
 $$Venta\ Bruta = \sum(Cantidad \times Precio\_Unitario)$$
 
 Venta Neta:
-
 
 $$Venta\ Neta = \sum(Venta\_Bruta \times (1 - Descuento\_Aplicado))$$
 
 Margen de Utilidad:
 
-
 $$Margen = Venta\ Neta - \sum(Cantidad \times Costo\_Unitario)$$
 
-% de Margen:
-
-
-$$\%\ Margen = \frac{Margen}{Venta\ Neta}$$
+% de Margen
 
 Crecimiento Año tras Año (YoY): Comparación de ventas entre los periodos 2023, 2024 y 2025.
