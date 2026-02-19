@@ -1,0 +1,21 @@
+ID_Producto,Nombre_Producto,Categoria,Subcategoria
+P001,Laptop Pro 15,Electronica,Computadoras
+P002,Monitor 4K,Electronica,Perifericos
+P003,Mouse Inalambrico,Accesorios,Perifericos
+P004,Teclado Mecanico,Accesorios,Perifericos
+P005,Cable HDMI 2m,Accesorios,Cables
+P006,Servidor Rack 1U,Electronica,Infraestructura
+P007,Silla Ergonomica,Mobiliario,Oficina
+P008,Lampara LED,Mobiliario,Iluminacion
+P009,USB Hub C,Accesorios,Conectividad
+P010,Mochila Ejecutiva,Accesorios,Equipaje
+P011,Tablet Air 10,Electronica,Computadoras
+P012,Webcam HD,Electronica,Perifericos
+P013,Escritorio Ajustable,Mobiliario,Oficina
+P014,Pilas Recargables AA,Accesorios,Energia
+P015,Smartwatch V2,Electronica,Wearables
+P016,Impresora Laser,Electronica,Impresion
+P017,Toner Negro,Accesorios,Insumos
+P018,Papel A4 500h,Papeleria,Insumos
+P019,Auriculares Noise Cancelling,Electronica,Audio
+P020,Soporte Monitor,Mobiliario,Oficina

@@ -1,0 +1,41 @@
+ID_Cliente,Nombre_Cliente,Pais,Ciudad,Segmento,Fecha_Alta
+C001,Juan Perez,España,Madrid,Corporativo,2022-01-15
+C002,Maria Garcia,México,CDMX,Consumidor,2022-03-20
+C003,Carlos Lopez,Argentina,Buenos Aires,Pyme,2022-05-10
+C004,Ana Martinez,Colombia,Bogotá,VIP,2022-06-05
+C005,Luis Rodriguez,Chile,Santiago,Sector Público,2022-08-12
+C006,Elena Gomez,España,Barcelona,Corporativo,2022-09-01
+C007,Roberto Diaz,México,Guadalajara,Consumidor,2022-10-15
+C008,Lucia Fernandez,Argentina,Cordoba,Pyme,2022-11-20
+C009,Diego Torres,Colombia,Medellin,VIP,2022-12-05
+C010,Sofia Castro,Chile,Valparaiso,Sector Público,2023-01-10
+C011,Javier Ruiz,España,Valencia,Corporativo,2023-02-14
+C012,Carmen Silva,México,Monterrey,Consumidor,2023-03-25
+C013,Andres Morales,Argentina,Rosario,Pyme,2023-04-30
+C014,Paola Herrera,Colombia,Cali,VIP,2023-05-12
+C015,Fernando Vega,Chile,Concepcion,Sector Público,2023-06-18
+C016,Isabel Rojas,España,Sevilla,Corporativo,2023-07-22
+C017,Ricardo Luna,México,Puebla,Consumidor,2023-08-05
+C018,Gabriela Rios,Argentina,Mendoza,Pyme,2023-09-14
+C019,Hugo Paredes,Colombia,Barranquilla,VIP,2023-10-20
+C020,Monica Soto,Chile,Antofagasta,Sector Público,2023-11-05
+C021,Sebastian Ortiz,España,Zaragoza,Corporativo,2023-12-12
+C022,Adriana Cruz,México,Tijuana,Consumidor,2024-01-08
+C023,Mateo Peña,Argentina,La Plata,Pyme,2024-02-15
+C024,Valeria Mendez,Colombia,Cartagena,VIP,2024-03-22
+C025,Nicolas Flores,Chile,Temuco,Sector Público,2024-04-10
+C026,Patricia Lima,Perú,Lima,Consumidor,2022-02-10
+C027,Jorge Santos,Perú,Cusco,Pyme,2022-04-18
+C028,Raul Mendez,Uruguay,Montevideo,Corporativo,2022-06-25
+C029,Silvia Duarte,Paraguay,Asuncion,Consumidor,2022-08-30
+C030,Marcos Witt,Bolivia,La Paz,VIP,2022-11-05
+C031,Esteban Quito,Ecuador,Quito,Pyme,2023-01-22
+C032,Luz Clarita,Guatemala,Ciudad de Guatemala,Consumidor,2023-03-14
+C033,Pedro Navaja,Panamá,Ciudad de Panamá,Corporativo,2023-05-01
+C034,Ines Perado,Costa Rica,San José,VIP,2023-07-15
+C035,Armando Casas,España,Bilbao,Sector Público,2023-09-20
+C036,Elena Nito,México,Cancún,Consumidor,2023-11-12
+C037,Aquiles Bailo,Argentina,Salta,Pyme,2024-01-05
+C038,Zoyla Vaca,Colombia,Pereira,Corporativo,2024-02-28
+C039,Elsa Pato,Chile,Rancagua,Consumidor,2024-04-15
+C040,Lalo Landa,España,Granada,Pyme,2024-06-02
